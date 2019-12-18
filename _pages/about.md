@@ -2,7 +2,7 @@
 title: "Through My Lense"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/specs.jpg"
 ---
 
 Data Scientist | Data Analyst | Former Geotechnical Engineer | 
