@@ -1,10 +1,16 @@
 ---
-title: "About"
+title: "Through My Lense"
 permalink: /about/
 header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+Data Scientist | Data Analyst | Former Geotechnical Engineer | 
 
-Etc, etc, etc
+Experience in
+  Python | Machine Learning techniques | Deep Learning techniques , Keras ,Tensorflow , Pytorch
+
+I love to work on Real-time Pose Estimation Projects using Deep-learning Techniques via Pytorch or Tensorflow
+
+Feel Free to reach out for collaboration!
+
