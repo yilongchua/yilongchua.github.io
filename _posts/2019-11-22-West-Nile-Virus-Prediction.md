@@ -3,7 +3,7 @@ title: "West Nile Virus Prediction"
 date: 2019-11-22
 tags: [west nile virus, prediction]
 header:
-  image: "/images/wnv_weather.png"
+  image: "/images/chiskyline.png"
 excerpt: "West Nile Virus, Prediction"
 mathjax: "true"
 ---
