@@ -4,7 +4,6 @@ date: 2019-11-22
 tags: [west nile virus, prediction]
 header:
  image: "/images/chiskyline.png" 
-image2: "/images/moggie2.png"
 excerpt: "West Nile Virus, Prediction"
 mathjax: "true"
 ---
