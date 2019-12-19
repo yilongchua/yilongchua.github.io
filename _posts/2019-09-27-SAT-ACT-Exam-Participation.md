@@ -22,5 +22,5 @@ mathjax: "true"
 </ul>  
 
 **Kindly refer to the following link for further details**
-[link](https://github.com/AbiramiKannappan/SAT_AND_ACT_EXAM_PARTICIPATION_AND_RELATED_ANALYSIS)
+[link](https://github.com/yilongchua/SAT-ACT-ANALYSIS)
 
