@@ -1,9 +1,9 @@
 ---
-title: "Data Science Project"
+title: "Yoga Pose Image Classifier"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: 
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: 
 excerpt: "Data Science Projects"
 mathjax: "true"
 ---
