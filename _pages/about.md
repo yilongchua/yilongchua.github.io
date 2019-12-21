@@ -1,5 +1,5 @@
 ---
-title: "Through My Lense"
+title: "Through My Lens"
 permalink: /about/
 header:
   image: "/images/specs.jpg"
